@@ -5,6 +5,8 @@
 Welcome to the Music Player project! This simple yet elegant music player allows you to play, pause, and navigate through a playlist of songs with ease. It features a rotating album cover, volume control, and a progress bar to keep track of the current song's playback.
 
 
+![image](https://github.com/LakinduNimesh/Music-Player-02/assets/149768006/833c7df1-44a1-4faa-82e9-e35a81af2ce0)
+
 
 ## Table of Contents
 
